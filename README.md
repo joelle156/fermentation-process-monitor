@@ -25,7 +25,7 @@ The `BioprocessMonitor` class provides the following features:
 
 ## Code Design
 
-When `main.py'` is run, the following actions occur:
+When `main.py` is run, the following actions occur:
 1. The operating condition constraints, `ph_lims` and `temperature_lims` are defined for operational mode A and B.
 2. The fermentation batch dataset .csv file is loaded and made compatible.
 3. The `BioprocessMonitor` is called for each operational mode.
